@@ -1,0 +1,34 @@
+{
+  "name": "DSX",
+  "timestamp": "2022-03-21T00:00:00.000Z",
+  "logoURI": "https://raw.githubusercontent.com/DSX-Asia/tokens/master/assets/dsx.png",
+  "keywords": [
+    "dsx",
+    "security",
+    "equity",
+    "listed"
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tokens": [
+    {
+      "chainId": 137,
+      "address": "0x8Db0A6d1b06950b4e81c4F67D1289Fc7B9359c7f",
+      "name": "Enegra",
+      "symbol": "EGX",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/DSX-Asia/tokens/master/assets/egx.png"
+    },
+    {
+      "chainId": 137,
+      "address": "0xF07A8Cc2d26a87D6BBcf6e578d7f5202f3ed9642",
+      "name": "MetalStream Gold",
+      "symbol": "MSGLD",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/DSX-Asia/tokens/master/assets/msgld.png"
+    }
+  ]
+}
